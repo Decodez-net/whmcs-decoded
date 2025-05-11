@@ -24,11 +24,6 @@ Tested and working on PHP 7.4 ~ 8.2.
 
 ---
 
-## 📸 Screenshots
-> Add some screenshots here
-
----
-
 ## 🛒 How to get it?
 
 1. Visit [https://decodez.net](https://decodez.net)
